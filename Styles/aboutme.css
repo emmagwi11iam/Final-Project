@@ -1,0 +1,19 @@
+img{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.family{
+    padding-left: 50px;
+}
+.church{
+    color: #6c757d;
+}
+.web:hover{
+    color: #0085A1;
+}
+.blk{
+    color: black;
+}
